@@ -37,5 +37,6 @@ Complete
 - [Dickinson 2014: Dr. Macarena's Robot Dance](https://www.hackerrank.com/contests/contest-programming/challenges/dr-macarenas-robot-dance)
 - [Dickinson 2013: Monte and the Missing Number Block](https://www.hackerrank.com/contests/contest-programming/challenges/monte-and-the-missing-number-block)
 - [Dickinson 2013: Dillsberg Squares](https://www.hackerrank.com/contests/contest-programming/challenges/dillsberg-squares)
+- [Xtreme 9.0 - Digit Fun!](https://www.hackerrank.com/contests/contest-programming/challenges/digit-fun)
 
 Incomplete
