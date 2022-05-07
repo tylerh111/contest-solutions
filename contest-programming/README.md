@@ -45,5 +45,6 @@ Complete
 - [ACM Qualifier 2013: Goldbach's Conjecture](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-goldbachs-conjecture)
 - [Dickinson 2017: Dice](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2017-dice)
 - [Dickinson 2017: Substring Reversi](https://www.hackerrank.com/contests/contest-programming/challenges/substring-reversi)
+- [FB HackerCup 2017-0: Progress Pie](https://www.hackerrank.com/contests/contest-programming/challenges/fb-hackercup-2017-0-progress-pie)
 
 Incomplete
