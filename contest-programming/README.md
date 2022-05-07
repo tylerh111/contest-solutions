@@ -74,3 +74,4 @@ Incomplete
 - [Unfriendly Numbers](https://www.hackerrank.com/contests/contest-programming/challenges/unfriendly-numbers)
 - [Array Manipulation](https://www.hackerrank.com/contests/contest-programming/challenges/crush)
 - [ACM 2015: Avoiding an Arrrgument](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-avoiding-an-arrrgument)
+- [Xtreme 9.0 - Block Art](https://www.hackerrank.com/contests/contest-programming/challenges/block-art)
