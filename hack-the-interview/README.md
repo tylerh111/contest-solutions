@@ -7,3 +7,4 @@ Complete
 - [The XOR Problem](https://www.hackerrank.com/contests/hack-the-interview-v/challenges/the-xor-problem)
 
 Incomplete
+- [New Keyboard](https://www.hackerrank.com/contests/hack-the-interview-v/challenges/strange-keyboard-1)
