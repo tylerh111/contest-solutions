@@ -64,3 +64,4 @@ Incomplete
 - [Xtreme 10.0 - Full Adder](https://www.hackerrank.com/contests/contest-programming/challenges/full-adder)
 - [ACM 2014: Not Sew Difficult](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-not-sew-difficult)
 - [ACM 2014: Everything in Excess!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-everything-in-excess)
+- [ACM 2017: Haiku Formatting](https://www.hackerrank.com/contests/contest-programming/challenges/2017-haiku-formatting)
