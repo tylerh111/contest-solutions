@@ -21,5 +21,6 @@ Complete
 - [ACM Qualifier 2015: Simon Says](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2015-simon-says)
 - [ACM Qualifier 2014: Eight Queens](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2014-eight-queens)
 - [Xtreme 9.0 - Zoom In](https://www.hackerrank.com/contests/contest-programming/challenges/zoom-in)
+- [ACM Qualifier 2016: Quick Estimates](https://www.hackerrank.com/contests/contest-programming/challenges/quick-estimates)
 
 Incomplete
