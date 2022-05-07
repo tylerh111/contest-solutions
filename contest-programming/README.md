@@ -56,5 +56,6 @@ Complete
 - [PSH: Big Eats](https://www.hackerrank.com/contests/contest-programming/challenges/big-eats)
 - [ACM Qualifier 2013: Erratic Ants](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-erratic-ants)
 - [ACM 2016 - Islands](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2016-islands)
+- [The Maximum Subarray](https://www.hackerrank.com/contests/contest-programming/challenges/maxsubarray)
 
 Incomplete
