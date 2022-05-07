@@ -32,5 +32,6 @@ Complete
 - [ACM Qualifier 2015: Quick Brown Fox](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2015-quick-brown-fox)
 - [PSH: Rock, Paper, Scissors, Lizard, Spock](https://www.hackerrank.com/contests/contest-programming/challenges/rock-paper-scissors-lizard-spock)
 - [Tree Serialization Translator](https://www.hackerrank.com/contests/contest-programming/challenges/tree-serialization-translator)
+- [The Tournament Results](https://www.hackerrank.com/contests/contest-programming/challenges/psh-charles-and-the-mixed-up-tournament)
 
 Incomplete
