@@ -17,5 +17,6 @@ Complete
 - [Do You Know the Way to San Jose?](https://www.hackerrank.com/contests/contest-programming/challenges/do-you-know-the-way-to-san-jose)
 - [Dave, the Telecom System Architect, Goes to Elbonia](https://www.hackerrank.com/contests/contest-programming/challenges/dave-the-telecom-system-architect-goes-to-elbonia)
 - [Mysterious Maze](https://www.hackerrank.com/contests/contest-programming/challenges/mysterious-maze)
+- [ACM Qualifier 2016: A New Alphabet](https://www.hackerrank.com/contests/contest-programming/challenges/a-new-alphabet)
 
 Incomplete
