@@ -46,5 +46,6 @@ Complete
 - [Dickinson 2017: Dice](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2017-dice)
 - [Dickinson 2017: Substring Reversi](https://www.hackerrank.com/contests/contest-programming/challenges/substring-reversi)
 - [FB HackerCup 2017-0: Progress Pie](https://www.hackerrank.com/contests/contest-programming/challenges/fb-hackercup-2017-0-progress-pie)
+- [PSH: Mobile Weighter, Check Please](https://www.hackerrank.com/contests/contest-programming/challenges/mobile-weighter-check-please)
 
 Incomplete
