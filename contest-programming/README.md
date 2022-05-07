@@ -63,3 +63,4 @@ Incomplete
 - [PSH: Water Is Your New Best Friend](https://www.hackerrank.com/contests/contest-programming/challenges/psh-water-is-your-new-best-friend)
 - [Xtreme 10.0 - Full Adder](https://www.hackerrank.com/contests/contest-programming/challenges/full-adder)
 - [ACM 2014: Not Sew Difficult](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-not-sew-difficult)
+- [ACM 2014: Everything in Excess!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-everything-in-excess)
