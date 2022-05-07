@@ -75,3 +75,4 @@ Incomplete
 - [Array Manipulation](https://www.hackerrank.com/contests/contest-programming/challenges/crush)
 - [ACM 2015: Avoiding an Arrrgument](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-avoiding-an-arrrgument)
 - [Xtreme 9.0 - Block Art](https://www.hackerrank.com/contests/contest-programming/challenges/block-art)
+- [PSH: Safe Cracker](https://www.hackerrank.com/contests/contest-programming/challenges/safe-cracker-1)
