@@ -28,5 +28,6 @@ Complete
 - [ACM Qualifier 2013: Plotting Polynomials](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-plotting-polynomials)
 - [Dickinson 2016: Secure Passwords](https://www.hackerrank.com/contests/contest-programming/challenges/secure-passwords)
 - [Dickinson 2015: Fizz-Buzz-Whammy](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2014-fizz-buzz-whammy)
+- [Dickinson 2015: Can't Read This](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2014-cant-read-this)
 
 Incomplete
