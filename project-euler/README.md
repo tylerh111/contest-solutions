@@ -19,3 +19,4 @@ Complete
 - [Project Euler #16: Power digit sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem)
 
 Incomplete
+- [Project Euler #254: Sums of Digit Factorials](https://www.hackerrank.com/contests/projecteuler/challenges/euler254/problem)
