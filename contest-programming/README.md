@@ -44,5 +44,6 @@ Complete
 - [Pesky Prereqs](https://www.hackerrank.com/contests/contest-programming/challenges/pesky-prereqs)
 - [ACM Qualifier 2013: Goldbach's Conjecture](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-goldbachs-conjecture)
 - [Dickinson 2017: Dice](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2017-dice)
+- [Dickinson 2017: Substring Reversi](https://www.hackerrank.com/contests/contest-programming/challenges/substring-reversi)
 
 Incomplete
