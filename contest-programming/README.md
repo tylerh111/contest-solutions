@@ -19,5 +19,6 @@ Complete
 - [Mysterious Maze](https://www.hackerrank.com/contests/contest-programming/challenges/mysterious-maze)
 - [ACM Qualifier 2016: A New Alphabet](https://www.hackerrank.com/contests/contest-programming/challenges/a-new-alphabet)
 - [ACM Qualifier 2015: Simon Says](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2015-simon-says)
+- [ACM Qualifier 2014: Eight Queens](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2014-eight-queens)
 
 Incomplete
