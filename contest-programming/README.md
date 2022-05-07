@@ -34,5 +34,6 @@ Complete
 - [Tree Serialization Translator](https://www.hackerrank.com/contests/contest-programming/challenges/tree-serialization-translator)
 - [The Tournament Results](https://www.hackerrank.com/contests/contest-programming/challenges/psh-charles-and-the-mixed-up-tournament)
 - [Dickinson 2016: Camel Case 123](https://www.hackerrank.com/contests/contest-programming/challenges/camel-case-123)
+- [Dickinson 2014: Dr. Macarena's Robot Dance](https://www.hackerrank.com/contests/contest-programming/challenges/dr-macarenas-robot-dance)
 
 Incomplete
