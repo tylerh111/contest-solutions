@@ -8,5 +8,6 @@ Original problems are located at [projecteuler.net](https://projecteuler.net/).
 
 ## Problems
 Complete
+- [Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
 
 Incomplete
