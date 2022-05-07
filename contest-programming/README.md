@@ -40,5 +40,6 @@ Complete
 - [Xtreme 9.0 - Digit Fun!](https://www.hackerrank.com/contests/contest-programming/challenges/digit-fun)
 - [ACM 2017: Star Arrangements](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2017-star-arrangements)
 - [ACM 2016 - Periodic String](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2016-periodic-string)
+- [Bob's "Down in Front" Aggravation Metric](https://www.hackerrank.com/contests/contest-programming/challenges/contest-programming-bobs-down-in-front-aggravation-metric)
 
 Incomplete
