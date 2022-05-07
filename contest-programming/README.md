@@ -30,5 +30,6 @@ Complete
 - [Dickinson 2015: Fizz-Buzz-Whammy](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2014-fizz-buzz-whammy)
 - [Dickinson 2015: Can't Read This](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2014-cant-read-this)
 - [ACM Qualifier 2015: Quick Brown Fox](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2015-quick-brown-fox)
+- [PSH: Rock, Paper, Scissors, Lizard, Spock](https://www.hackerrank.com/contests/contest-programming/challenges/rock-paper-scissors-lizard-spock)
 
 Incomplete
