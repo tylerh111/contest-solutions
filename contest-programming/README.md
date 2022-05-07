@@ -18,5 +18,6 @@ Complete
 - [Dave, the Telecom System Architect, Goes to Elbonia](https://www.hackerrank.com/contests/contest-programming/challenges/dave-the-telecom-system-architect-goes-to-elbonia)
 - [Mysterious Maze](https://www.hackerrank.com/contests/contest-programming/challenges/mysterious-maze)
 - [ACM Qualifier 2016: A New Alphabet](https://www.hackerrank.com/contests/contest-programming/challenges/a-new-alphabet)
+- [ACM Qualifier 2015: Simon Says](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2015-simon-says)
 
 Incomplete
