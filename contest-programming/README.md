@@ -65,3 +65,4 @@ Incomplete
 - [ACM 2014: Not Sew Difficult](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-not-sew-difficult)
 - [ACM 2014: Everything in Excess!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-everything-in-excess)
 - [ACM 2017: Haiku Formatting](https://www.hackerrank.com/contests/contest-programming/challenges/2017-haiku-formatting)
+- [Xtreme 10.0 - Ellipse Art](https://www.hackerrank.com/contests/contest-programming/challenges/ellipse-art)
