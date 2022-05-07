@@ -11,5 +11,6 @@ Complete
 - [Project Euler #1: Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem)
 - [Project Euler #2: Even Fibonacci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
 - [Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem)
+- [Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem)
 
 Incomplete
