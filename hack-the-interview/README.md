@@ -8,3 +8,4 @@ Complete
 
 Incomplete
 - [New Keyboard](https://www.hackerrank.com/contests/hack-the-interview-v/challenges/strange-keyboard-1)
+- [Jewel Game](https://www.hackerrank.com/contests/hack-the-interview-v/challenges/candy-crush-4)
