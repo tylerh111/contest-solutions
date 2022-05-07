@@ -50,5 +50,6 @@ Complete
 - [PSH: A Joke is in the Cards](https://www.hackerrank.com/contests/contest-programming/challenges/a-joke-is-in-the-cards)
 - [PSH: Spring Cleaning at the Big Bang 1](https://www.hackerrank.com/contests/contest-programming/challenges/spring-cleaning-at-the-big-bang-1)
 - [ACM 2014: Roaming Romans](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-roaming-romans)
+- [ACM Qualifier 2018: Das Blinkenlights](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-das-blinkenlights)
 
 Incomplete
