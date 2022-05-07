@@ -25,5 +25,6 @@ Complete
 - [ACM 2014: Hy-phe-na-tion Rulez](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-hy-phe-na-tion-rulez)
 - [Spotora vs. Pandify](https://www.hackerrank.com/contests/contest-programming/challenges/opening-pandoras-box)
 - [ACM 2015: Lunacy](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-lunacy)
+- [ACM Qualifier 2013: Plotting Polynomials](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-plotting-polynomials)
 
 Incomplete
