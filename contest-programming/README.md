@@ -73,3 +73,4 @@ Incomplete
 - [Xtreme 10.0 - Memory Management](https://www.hackerrank.com/contests/contest-programming/challenges/memory-management)
 - [Unfriendly Numbers](https://www.hackerrank.com/contests/contest-programming/challenges/unfriendly-numbers)
 - [Array Manipulation](https://www.hackerrank.com/contests/contest-programming/challenges/crush)
+- [ACM 2015: Avoiding an Arrrgument](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-avoiding-an-arrrgument)
