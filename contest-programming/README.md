@@ -48,5 +48,6 @@ Complete
 - [FB HackerCup 2017-0: Progress Pie](https://www.hackerrank.com/contests/contest-programming/challenges/fb-hackercup-2017-0-progress-pie)
 - [PSH: Mobile Weighter, Check Please](https://www.hackerrank.com/contests/contest-programming/challenges/mobile-weighter-check-please)
 - [PSH: A Joke is in the Cards](https://www.hackerrank.com/contests/contest-programming/challenges/a-joke-is-in-the-cards)
+- [PSH: Spring Cleaning at the Big Bang 1](https://www.hackerrank.com/contests/contest-programming/challenges/spring-cleaning-at-the-big-bang-1)
 
 Incomplete
