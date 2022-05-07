@@ -12,5 +12,6 @@ Complete
 - [Take Me To Your Leader](https://www.hackerrank.com/contests/contest-programming/challenges/take-me-to-your-leader)
 - [PSH: Counting Substitution Cipher Keys](https://www.hackerrank.com/contests/contest-programming/challenges/psh-counting-substitution-cipher-keys)
 - [PSH: ^ ! (aka Hidden Constants and Underlying Data Structures Matter)](https://www.hackerrank.com/contests/contest-programming/challenges/aka-hidden-constants-and-underlying-data-structures-matter)
+- [PSH: Static Boolean Expression Trees](https://www.hackerrank.com/contests/contest-programming/challenges/psh-static-boolean-expression-trees)
 
 Incomplete
