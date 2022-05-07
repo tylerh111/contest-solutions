@@ -27,5 +27,6 @@ Complete
 - [ACM 2015: Lunacy](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-lunacy)
 - [ACM Qualifier 2013: Plotting Polynomials](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-plotting-polynomials)
 - [Dickinson 2016: Secure Passwords](https://www.hackerrank.com/contests/contest-programming/challenges/secure-passwords)
+- [Dickinson 2015: Fizz-Buzz-Whammy](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2014-fizz-buzz-whammy)
 
 Incomplete
