@@ -68,3 +68,4 @@ Incomplete
 - [Xtreme 10.0 - Ellipse Art](https://www.hackerrank.com/contests/contest-programming/challenges/ellipse-art)
 - [Xtreme 9.0 - Snakes & Bunnies](https://www.hackerrank.com/contests/contest-programming/challenges/snakes-bunnies)
 - [PSH: Loopy Puzzle](https://www.hackerrank.com/contests/contest-programming/challenges/loopy-puzzle)
+- [PSH: Algorithmic Trading 1](https://www.hackerrank.com/contests/contest-programming/challenges/algorithmic-trading-1)
