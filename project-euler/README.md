@@ -13,5 +13,6 @@ Complete
 - [Project Euler #6: Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem)
 - [Project Euler #7: 10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem)
 - [Project Euler #13: Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem)
+- [Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem)
 
 Incomplete
