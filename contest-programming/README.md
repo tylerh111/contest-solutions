@@ -54,5 +54,6 @@ Complete
 - [ACM Qualifier 2018: Run-length Encoding, Run!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-run-length-encoding-run)
 - [Xtreme 9.0 - Shortening in the Real World](https://www.hackerrank.com/contests/contest-programming/challenges/shortening-in-the-real-world)
 - [PSH: Big Eats](https://www.hackerrank.com/contests/contest-programming/challenges/big-eats)
+- [ACM Qualifier 2013: Erratic Ants](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-erratic-ants)
 
 Incomplete
