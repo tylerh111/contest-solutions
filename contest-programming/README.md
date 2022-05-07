@@ -51,5 +51,6 @@ Complete
 - [PSH: Spring Cleaning at the Big Bang 1](https://www.hackerrank.com/contests/contest-programming/challenges/spring-cleaning-at-the-big-bang-1)
 - [ACM 2014: Roaming Romans](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-roaming-romans)
 - [ACM Qualifier 2018: Das Blinkenlights](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-das-blinkenlights)
+- [ACM Qualifier 2018: Run-length Encoding, Run!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-run-length-encoding-run)
 
 Incomplete
