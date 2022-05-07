@@ -70,3 +70,4 @@ Incomplete
 - [PSH: Loopy Puzzle](https://www.hackerrank.com/contests/contest-programming/challenges/loopy-puzzle)
 - [PSH: Algorithmic Trading 1](https://www.hackerrank.com/contests/contest-programming/challenges/algorithmic-trading-1)
 - [PSH: The Enemy of My Enemy is My Friend](https://www.hackerrank.com/contests/contest-programming/challenges/asdf)
+- [Xtreme 10.0 - Memory Management](https://www.hackerrank.com/contests/contest-programming/challenges/memory-management)
