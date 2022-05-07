@@ -43,5 +43,6 @@ Complete
 - [Bob's "Down in Front" Aggravation Metric](https://www.hackerrank.com/contests/contest-programming/challenges/contest-programming-bobs-down-in-front-aggravation-metric)
 - [Pesky Prereqs](https://www.hackerrank.com/contests/contest-programming/challenges/pesky-prereqs)
 - [ACM Qualifier 2013: Goldbach's Conjecture](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-goldbachs-conjecture)
+- [Dickinson 2017: Dice](https://www.hackerrank.com/contests/contest-programming/challenges/dickinson-2017-dice)
 
 Incomplete
