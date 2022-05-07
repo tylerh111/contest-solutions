@@ -60,3 +60,4 @@ Complete
 - [Xtreme 9.0 - Xtreme In Security](https://www.hackerrank.com/contests/contest-programming/challenges/xtreme-in-security)
 
 Incomplete
+- [PSH: Water Is Your New Best Friend](https://www.hackerrank.com/contests/contest-programming/challenges/psh-water-is-your-new-best-friend)
