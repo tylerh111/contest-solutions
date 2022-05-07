@@ -23,5 +23,6 @@ Complete
 - [Xtreme 9.0 - Zoom In](https://www.hackerrank.com/contests/contest-programming/challenges/zoom-in)
 - [ACM Qualifier 2016: Quick Estimates](https://www.hackerrank.com/contests/contest-programming/challenges/quick-estimates)
 - [ACM 2014: Hy-phe-na-tion Rulez](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2014-hy-phe-na-tion-rulez)
+- [Spotora vs. Pandify](https://www.hackerrank.com/contests/contest-programming/challenges/opening-pandoras-box)
 
 Incomplete
