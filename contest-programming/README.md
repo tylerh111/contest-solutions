@@ -16,5 +16,6 @@ Complete
 - [PSH: Dynamic Boolean Expression Trees](https://www.hackerrank.com/contests/contest-programming/challenges/dynamic-boolean-expression-trees)
 - [Do You Know the Way to San Jose?](https://www.hackerrank.com/contests/contest-programming/challenges/do-you-know-the-way-to-san-jose)
 - [Dave, the Telecom System Architect, Goes to Elbonia](https://www.hackerrank.com/contests/contest-programming/challenges/dave-the-telecom-system-architect-goes-to-elbonia)
+- [Mysterious Maze](https://www.hackerrank.com/contests/contest-programming/challenges/mysterious-maze)
 
 Incomplete
