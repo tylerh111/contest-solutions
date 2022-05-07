@@ -15,5 +15,6 @@ Complete
 - [Project Euler #13: Large sum](https://www.hackerrank.com/contests/projecteuler/challenges/euler013/problem)
 - [Project Euler #8: Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem)
 - [Project Euler #3: Largest prime factor](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem)
+- [Project Euler #11: Largest product in a grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem)
 
 Incomplete
