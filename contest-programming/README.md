@@ -55,5 +55,6 @@ Complete
 - [Xtreme 9.0 - Shortening in the Real World](https://www.hackerrank.com/contests/contest-programming/challenges/shortening-in-the-real-world)
 - [PSH: Big Eats](https://www.hackerrank.com/contests/contest-programming/challenges/big-eats)
 - [ACM Qualifier 2013: Erratic Ants](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2013-erratic-ants)
+- [ACM 2016 - Islands](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2016-islands)
 
 Incomplete
