@@ -52,5 +52,6 @@ Complete
 - [ACM 2014: Roaming Romans](https://www.hackerrank.com/contests/contest-programming/challenges/acm-2015-roaming-romans)
 - [ACM Qualifier 2018: Das Blinkenlights](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-das-blinkenlights)
 - [ACM Qualifier 2018: Run-length Encoding, Run!](https://www.hackerrank.com/contests/contest-programming/challenges/acm-qualifier-2018-run-length-encoding-run)
+- [Xtreme 9.0 - Shortening in the Real World](https://www.hackerrank.com/contests/contest-programming/challenges/shortening-in-the-real-world)
 
 Incomplete
